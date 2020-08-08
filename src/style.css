@@ -1,0 +1,47 @@
+body {
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#container {
+    text-align: center;
+}
+
+.table {
+    cursor: pointer;
+}
+
+.selected-user {
+    text-align: left;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+#form {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.pagination {
+    justify-content: center;
+}
+
+.search-row {
+    margin-left: 30%;
+    max-width: 40%;
+}
+
+
+
+
+
+
